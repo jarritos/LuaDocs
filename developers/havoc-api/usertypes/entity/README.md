@@ -1,0 +1,6 @@
+---
+description: Entity objects
+---
+
+# Entity
+
